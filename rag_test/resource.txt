@@ -1,0 +1,2 @@
+tutorial: https://youtu.be/BrsocJb-fAo
+git: https://github.com/svpino/youtube-rag
